@@ -12,10 +12,12 @@ I'm interested in human–computer interaction in counseling, especially how AI 
 
 I'm also exploring how AI agents could play simulated clients so counselors can practice. When trainees review a session afterward, what cues would help them notice something they missed in the moment? That's a question I'd like to keep working on.
 
-### 🛠️ Tools and research methods
+### 🛠️ Tech stack
 
-- **LLM experiments** · Python, PyTorch, Hugging Face Transformers, Llama 3.1
-- **Model interpretability** · Sparse autoencoders (SAEs), activation extraction, sparse probing, causal interventions
-- **Data analysis and visualization** · NumPy, pandas, SciPy, scikit-learn, Matplotlib
-- **Image data processing** · OpenCV, Albumentations
-- **Experiment setup** · Git, Conda, Bash, Google Compute Engine GPUs
+![Python, Java, Spring, PostgreSQL, PyTorch, Git, Bash, Google Cloud](https://skillicons.dev/icons?i=python,java,spring,postgres,pytorch,git,bash,gcp&perline=8)
+
+- **AI agents** · Tool calling, RAG, workflow orchestration, model and agent evaluation
+- **Backend engineering** · Java / Spring Boot, REST APIs, SSE streaming, PostgreSQL
+- **Model experimentation** · Python / PyTorch, Hugging Face Transformers, inference and interpretability
+
+**Daily tools** · Codex, Agent Skills, Git worktrees, shell automation

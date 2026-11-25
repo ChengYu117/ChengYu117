@@ -10,10 +10,12 @@
 
 SYSU研二在读，研究情感计算，心理咨询中的人机交互。
 
-### 🛠️ 技术栈与研究方法
+### 🛠️ 技术栈
 
-- **大模型实验** · Python、PyTorch、Hugging Face Transformers、Llama 3.1
-- **模型可解释性** · 稀疏自编码器（SAE）、激活提取、稀疏探针、因果干预实验
-- **数据分析与可视化** · NumPy、pandas、SciPy、scikit-learn、Matplotlib
-- **图像数据处理** · OpenCV、Albumentations
-- **实验环境** · Git、Conda、Bash、Google Compute Engine 云 GPU
+![Python、Java、Spring、PostgreSQL、PyTorch、Git、Bash、Google Cloud](https://skillicons.dev/icons?i=python,java,spring,postgres,pytorch,git,bash,gcp&perline=8)
+
+- **AI Agent** · 工具调用、RAG、工作流编排、模型与 Agent 评测
+- **后端开发** · Java / Spring Boot、REST API、SSE 流式响应、PostgreSQL
+- **模型实验** · Python / PyTorch、Hugging Face Transformers、模型推理与可解释性
+
+**日常开发** · Codex、Agent Skills、Git Worktree、Shell 自动化
