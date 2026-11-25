@@ -12,16 +12,10 @@ I'm interested in human–computer interaction in counseling, especially how AI 
 
 I'm also exploring how AI agents could play simulated clients so counselors can practice. When trainees review a session afterward, what cues would help them notice something they missed in the moment? That's a question I'd like to keep working on.
 
-### 🚀 Public projects
+### 🛠️ Tools and research methods
 
-| Project | What it does |
-| :--- | :--- |
-| **[Evaluating features associated with reflective listening](https://github.com/ChengYu117/yanzheng)** | Compares Llama 3.1 8B activations on counseling utterances with and without reflective listening to identify candidate SAE features. I corrected normalization and denormalization in SAE inference and added a causal evaluation experiment. |
-| **[Paired image and mask augmentation](https://github.com/ChengYu117/shuju)** | Applies the same geometric transformations to images and their segmentation masks, keeping labels aligned after flips, rotations, and distortions. |
-
-### 🛠️ Project stack
-
-- **Modeling and evaluation** · `Python` · `PyTorch` · `Hugging Face Transformers` · `scikit-learn`
-- **Image processing** · `OpenCV` · `Albumentations` · `NumPy`
-
-<p align="center"><a href="https://github.com/ChengYu117?tab=repositories">Browse all repositories →</a></p>
+- **LLM experiments** · Python, PyTorch, Hugging Face Transformers, Llama 3.1
+- **Model interpretability** · Sparse autoencoders (SAEs), activation extraction, sparse probing, causal interventions
+- **Data analysis and visualization** · NumPy, pandas, SciPy, scikit-learn, Matplotlib
+- **Image data processing** · OpenCV, Albumentations
+- **Experiment setup** · Git, Conda, Bash, Google Compute Engine GPUs

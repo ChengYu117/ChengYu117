@@ -12,16 +12,10 @@
 
 我也在想，能不能让 Agent 扮演模拟来访者，给咨询师提供练习机会。练完再回看这段对话，哪些线索能帮助学员发现自己刚才漏听了什么？这是我想继续研究的问题。
 
-### 🚀 公开项目
+### 🛠️ 技术栈与研究方法
 
-| 项目 | 做了什么 |
-| :--- | :--- |
-| **[反映式倾听特征评估](https://github.com/ChengYu117/yanzheng)** | 比较 Llama 3.1 8B 处理有无反映式倾听的咨询话语时的内部激活，筛选候选 SAE 特征。我在项目中校正了 SAE 推理的归一化与反归一化，并加入了因果评估实验。 |
-| **[图像与掩码同步增强](https://github.com/ChengYu117/shuju)** | 给语义分割样本做翻转、旋转和形变时，对原图和标注掩码同步应用几何变换，让增强后的图片和标注仍然对齐。 |
-
-### 🛠️ 项目技术栈
-
-- **模型与评估** · `Python` · `PyTorch` · `Hugging Face Transformers` · `scikit-learn`
-- **图像处理** · `OpenCV` · `Albumentations` · `NumPy`
-
-<p align="center"><a href="https://github.com/ChengYu117?tab=repositories">查看全部仓库 →</a></p>
+- **大模型实验** · Python、PyTorch、Hugging Face Transformers、Llama 3.1
+- **模型可解释性** · 稀疏自编码器（SAE）、激活提取、稀疏探针、因果干预实验
+- **数据分析与可视化** · NumPy、pandas、SciPy、scikit-learn、Matplotlib
+- **图像数据处理** · OpenCV、Albumentations
+- **实验环境** · Git、Conda、Bash、Google Compute Engine 云 GPU
